@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"jaytaylor.com/html2text"
+	"github.com/flimzy/html2text"
 )
 
 func main() {
